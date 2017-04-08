@@ -1,6 +1,5 @@
 # docker-duckdns
 
-A simple Docker Duck DNS client </br>
 The DNS is updated at container creation and every 30 minutes, to force a DNS update restart the container.
 
 ## Exemple Usage 
